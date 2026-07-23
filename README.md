@@ -10,11 +10,11 @@ Each diagram was built using **draw.io**, following the SQL Server data-typing c
 
 | # | Project | Domain | File |
 |---|---------|--------|------|
-| 1 | [Simple Online Shop](ERDs/SimpleOnlineShop_drawio.svg) | E-commerce | `SimpleOnlineShop_drawio.svg` |
-| 2 | [Car Rental System](ERDs/CarRentalERD_drawio.svg) | Vehicle Rental | `CarRentalERD_drawio.svg` |
+| 1 | [Simple Online Shop](ERDs/SimpleOnlineShop.drawio.svg) | E-commerce | `SimpleOnlineShop_drawio.svg` |
+| 2 | [Car Rental System](ERDs/CarRentalERD.drawio.svg) | Vehicle Rental | `CarRentalERD_drawio.svg` |
 | 3 | [Simple Clinic](ERDs/SimpleClinicERD.svg) | Healthcare | `SimpleClinicERD.svg` |
-| 4 | [Simple Library](ERDs/SimpleLibraryERD_drawio.svg) | Library Management | `SimpleLibraryERD_drawio.svg` |
-| 5 | [Karate Club](ERDs/KarateClub_drawio.svg) | Membership & Training | `KarateClub_drawio.svg` |
+| 4 | [Simple Library](ERDs/SimpleLibraryERD.drawio.svg) | Library Management | `SimpleLibraryERD_drawio.svg` |
+| 5 | [Karate Club](ERDs/KarateClub.drawio.svg) | Membership & Training | `KarateClub_drawio.svg` |
 
 ---
 
